@@ -1,1 +1,22 @@
 olá teste
+Comandos do GitHub
+
+git init
+
+git status
+
+git add meu "meu codigo"
+
+
+git status
+
+git push
+
+git remote add origin https://github.com/PatriciaBraganca/aprendendo-GitHub
+
+git push
+
+ git push --set-upstream origin master
+
+
+
